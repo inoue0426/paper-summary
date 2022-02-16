@@ -17,12 +17,6 @@ N/A
 
 Introducing how to use DNN for drug repurposing.
 
-```mermaid
-A[Source] --> B[Representation];
-B[Representation]  --> C[Models];
-C[Models] --> D[Tasks];
-```
-
 - Source:
     - Databases
         - compounds
