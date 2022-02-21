@@ -1,4 +1,6 @@
-Pan et al, 2022, WIREs computational molecular science, Deep learning for drug repurposing: Methods, databases, and applications
+# Deep learning for drug repurposing: Methods, databases, and applications
+
+Pan et al, 2022, WIREs computational molecular science
 
 
 1. What kind of research(abstract)?
